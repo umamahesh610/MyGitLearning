@@ -17,5 +17,6 @@ public class HellowWorld {
             System.out.println("i = " + i);
         }
 	System.out.println("Goodbye");
+	System.out.println("Tot Ziens");
     }
 }
