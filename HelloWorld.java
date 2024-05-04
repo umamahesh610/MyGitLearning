@@ -18,5 +18,6 @@ public class HellowWorld {
         }
 	System.out.println("Goodbye");
 	System.out.println("Tot Ziens");
+		System.out.println("Au revoir");
     }
 }
